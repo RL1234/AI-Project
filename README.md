@@ -1,1 +1,1 @@
-# AI-Project
+# Testing Various AI Models for Game Training
