@@ -45,8 +45,8 @@ With approximately 35,000 sample, running batch training (100 sample) with gradi
 
 Weights for "left":
 
-![alt txt](/figure_1.png)
-Format: ![Alt Text](url)
+![alt txt](https://github.com/RL1234/AI-Project/blob/master/figure_1.png)
+
 
 ## Multilayer Perceptron Neural Network
 
