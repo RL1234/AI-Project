@@ -1,5 +1,5 @@
 # Testing Various AI Models for Game Play
-This project uses TensorFlow to train self-play of game. 
+This project uses TensorFlow to train self-play of a game (Space Invaders). 
 
 It will first use a single layer perceptron. 
 
