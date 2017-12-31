@@ -43,7 +43,7 @@ Plays the captured game play while displaying statistics.
 
 With approximately 35,000 sample, running batch training (100 sample) with gradient descent (.05) and 2000 Epochs, I got an an accuracy of .985294.
 
-Weights for "left":
+Weights for "left" after training:
 
 ![alt txt](https://github.com/RL1234/AI-Project/blob/master/figure_1.png)
 
