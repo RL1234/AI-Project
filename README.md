@@ -47,6 +47,9 @@ Weights for "left" after training:
 
 ![alt txt](https://github.com/RL1234/AI-Project/blob/master/figure_1.png)
 
+Weights for "space (fire)" after training:
+
+![alt txt](https://github.com/RL1234/AI-Project/blob/master/figure_1-1.png)
 
 ## Multilayer Perceptron Neural Network
 
