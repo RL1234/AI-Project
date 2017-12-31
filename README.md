@@ -15,15 +15,27 @@ It is written in python.
 
 ## Training Data
 
-get_training_data.py
+**get_training_data.py**
 
 Input - 110 x 134 grayscale pixel screen grab of the game screen
 
 Output - One hot 1) left, 2) space (fire), 3) right, 4) do nothing
 
+**clean_training_data.py**
+
+Identifies and purges bad captures.
+
+**utilities.py**
+
+Utility functions that analyze the captured game play.
+
+**view_training_data.py**
+
+Plays the captured game play while displaying statistics.
+
 ## Single Layer Perceptron Neural Network
 
-train.py
+**train.py**
 
 14,740 input nodes (flattened 110 x 134 image)
 
@@ -31,9 +43,12 @@ train.py
 
 With approximately 35,000 sample, running batch training (100 sample) with gradient descent (.05) and 2000 Epochs, I got an an accuracy of .985294.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ## Multilayer Perceptron Neural Network
 
-train2.py
+**train2.py**
 
 14,740 input nodes (flattened 110 x 134 image)
 
@@ -43,7 +58,7 @@ train2.py
 
 ## Convolutional Neural Network
 
-train3.py
+**train3.py**
 
 A work in progress.
 
