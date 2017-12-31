@@ -43,7 +43,9 @@ Plays the captured game play while displaying statistics.
 
 With approximately 35,000 sample, running batch training (100 sample) with gradient descent (.05) and 2000 Epochs, I got an an accuracy of .985294.
 
-![GitHub Logo](/images/logo.png)
+Weights for "left":
+
+![alt txt](/figure_1.png)
 Format: ![Alt Text](url)
 
 ## Multilayer Perceptron Neural Network
