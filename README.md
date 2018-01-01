@@ -33,6 +33,8 @@ Utility functions that analyze the captured game play.
 
 Plays the captured game play while displaying statistics.
 
+![alt txt](https://github.com/RL1234/AI-Project/blob/master/Slide1.PNG)
+
 ## Single Layer Perceptron Neural Network
 
 **train.py**
